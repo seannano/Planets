@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 not a planet
+Too far, and NDT says it sucks
+>>>>>>> pluto
